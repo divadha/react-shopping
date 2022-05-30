@@ -1,0 +1,12 @@
+.product-card-image {
+  width: auto;
+  max-height: 250px;
+  object-fit: contain;
+}
+
+.product-cart-image {
+  width: auto;
+  max-height: 150px;
+  max-width: 100px;
+  object-fit: contain;
+}
